@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Menu_Wbudowane</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="g_wna">główna</string>
+    <string name="menu">menu</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="textvieww">TextView</string>
+    <string name="textview1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis felis vel mi posuere consequat. Aenean mollis leo sed mi lobortis, non porttitor quam interdum. Vivamus eget suscipit nunc. Mauris semper luctus diam, non ultrices mauris pulvinar eu. Maecenas iaculis est dapibus tortor venenatis condimentum. Vivamus lobortis a tellus vitae pharetra. Duis turpis lectus, suscipit in viverra nec, rhoncus non nisl. Nullam scelerisque justo venenatis dolor malesuada pellentesque. Pellentesque quis suscipit ipsum. Donec finibus rhoncus dignissim. In eu diam ac ipsum laoreet hendrerit. Praesent felis nibh, aliquet non libero tincidunt, luctus porttitor purus. Suspendisse mollis libero nunc, non ornare nibh porttitor in. Nullam nec placerat massa, suscipit luctus odio. Fusce rutrum sem et nulla dignissim aliquet. Etiam tempor enim vel metus bibendum, sed ornare est laoreet. Aenean tellus quam, sollicitudin eget maximus vel, tincidunt et est. Vestibulum id tristique tellus. Nulla facilisi. Proin et arcu vel nibh volutpat fringilla. In non mi arcu. Maecenas at porta quam. Pellentesque imperdiet tempus odio, a dictum metus pellentesque sed. Curabitur tempor lorem accumsan turpis faucibus, quis condimentum massa venenatis. Pellentesque ultrices convallis diam vitae sollicitudin. Quisque erat ante, egestas eu ullamcorper sit amet, tempor at quam.</string>
+    <string name="textview2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis felis vel mi posuere consequat. Aenean mollis leo sed mi lobortis, non porttitor quam interdum. Vivamus eget suscipit nunc. Mauris semper luctus diam, non ultrices mauris pulvinar eu. Maecenas iaculis est dapibus tortor venenatis condimentum. Vivamus lobortis a tellus vitae pharetra. Duis turpis lectus, suscipit in viverra nec, rhoncus non nisl. Nullam scelerisque justo venenatis dolor malesuada pellentesque. Pellentesque quis suscipit ipsum. Donec finibus rhoncus dignissim. In eu diam ac ipsum laoreet hendrerit. Praesent felis nibh, aliquet non libero tincidunt, luctus porttitor purus. Suspendisse mollis libero nunc, non ornare nibh porttitor in. Nullam nec placerat massa, suscipit luctus odio. Fusce rutrum sem et nulla dignissim aliquet. Etiam tempor enim vel metus bibendum, sed ornare est laoreet. Aenean tellus quam, sollicitudin eget maximus vel, tincidunt et est. Vestibulum id tristique tellus. Nulla facilisi. Proin et arcu vel nibh volutpat fringilla. In non mi arcu. Maecenas at porta quam. Pellentesque imperdiet tempus odio, a dictum metus pellentesque sed. Curabitur tempor lorem accumsan turpis faucibus, quis condimentum massa venenatis. Pellentesque ultrices convallis diam vitae sollicitudin. Quisque erat ante, egestas eu ullamcorper sit amet, tempor at quam.</string>
+    <string name="button">Button</string>
+    <string name="galeria">galeria</string>
+    <string name="todo1">TODO1</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
